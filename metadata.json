@@ -1,0 +1,6 @@
+{
+  "name": "HH Goa 2026 Builder Identity Generator",
+  "description": "Interactive HH Goa 2026 Builder Frame & Identity Card Generator with 3D card flip, custom PFP upload, Goan tropical branding, high-res canvas export, and X sharing (#FrameInGoa).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
